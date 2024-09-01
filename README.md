@@ -16,7 +16,6 @@ This project analyzes historical stock market data with the primary objectives o
 - [Usage](#usage)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Results](#results)
-- [File Structure](#file-structure)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
@@ -122,22 +121,7 @@ The Power BI dashboard provides interactive visualizations for the following:
 
 The analysis successfully identified critical trends and patterns in stock prices, including key trading signals like Golden Cross and Death Cross. The predictive models offer insights into future stock price movements, which are visualized in the Power BI dashboard.
 
-## File Structure
 
-```
-stock-market-analysis/
-│
-├── data/
-│   └── stock_data.csv            # Raw data file (example)
-├── scripts/
-│   ├── data_collection.py        # Script to collect and preprocess data
-│   ├── model_training.py         # Script for model training and evaluation
-│   ├── generate_csv.py           # Script to generate CSVs for Power BI
-├── output/
-│   └── stock_data_with_signals.csv  # Output CSV with Golden Cross and Death Cross signals
-├── README.md                     # Project documentation
-├── requirements.txt              # List of Python dependencies
-└── PowerBI_Dashboard.pbit        # Power BI template (if applicable)
 ```
 
 ## Future Work
