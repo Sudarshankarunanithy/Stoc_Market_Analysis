@@ -137,4 +137,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source and available for anyone to use for personal or educational purposes. As a portfolio project, it is not encumbered by formal licensing restrictions. Feel free to explore, modify, and distribute the code as you see fit.
